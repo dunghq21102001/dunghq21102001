@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dunghq21102001
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning Java, FE.
+- 👀 I’m interested in Web design and web developer
+- 🌱 I’m currently learning reactJS, nextJS, BE with nodeJS(expressJS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
