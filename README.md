@@ -40,9 +40,10 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunghq21102001&show_icons=true&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunghq21102001&show_icons=true&theme=tokyonight)
 &nbsp;
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunghq21102001&layout=compact)](https://github.com/dunghq21102001/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunghq21102001&layout=compact)](https://github.com/dunghq21102001/)
 &nbsp;
 
 
