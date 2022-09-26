@@ -43,7 +43,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunghq21102001&show_icons=true&theme=tokyonight)
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=Less,SCSS)](https://github.com/dunghq21102001/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunghq21102001&layout=compact&hide=Less,SCSS)](https://github.com/dunghq21102001/)
 
 
 <h2 align="center">How to connect with me</h2>
