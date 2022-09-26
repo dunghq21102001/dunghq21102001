@@ -35,8 +35,35 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunghq21102001&show_icons=true&theme=tokyonight)
+
+
+
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="DungHQ">
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunghq21102001&show_icons=true&theme=tokyonight)
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunghq21102001&layout=compact)](https://github.com/dunghq21102001/)
+  </a>
+  <a href="#" title="DungHQ">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunghq21102001&layout=compact)](https://github.com/dunghq21102001/)
 &nbsp;
-[![Default](https://github-readme-stats.vercel.app/api/wakatime?username=dunghq21102001)](https://github.com/dunghq21102001/)
+  </a>
+</div>
+
+
+<h2 align="center">How to connect with me</h2>
+<br>
+<div align="center">
+  <a href="https://www.facebook.com/dungx.quoc.2125109" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dunghq-facebook" />
+  </a>
+  <a href="https://www.instagram.com/dunghq21/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dunghq-instagram" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dunghq-email" />
+  </a>
+</div>
+
