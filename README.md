@@ -39,18 +39,11 @@
 
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" title="DungHQ">
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunghq21102001&show_icons=true&theme=tokyonight)
 &nbsp;
-  </a>
-  <a href="#" title="DungHQ">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunghq21102001&layout=compact)](https://github.com/dunghq21102001/)
 &nbsp;
-  </a>
-</div>
 
 
 <h2 align="center">How to connect with me</h2>
