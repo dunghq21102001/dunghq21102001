@@ -36,9 +36,9 @@
 &nbsp;
 
 <!-- ![](https://github.com/dunghq21102001/[Your_GIF_Name.gif](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)) -->
-<img src='https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='200px' height='100px'/>
 
 
+<img src='https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif' width='100%' height='100%'/>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
