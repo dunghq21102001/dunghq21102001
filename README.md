@@ -35,7 +35,8 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 
-![](https://github.com/dunghq21102001/[Your_GIF_Name.gif](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
+<!-- ![](https://github.com/dunghq21102001/[Your_GIF_Name.gif](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)) -->
+<img src='https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='200px' height='100px'/>
 
 
 
