@@ -19,34 +19,33 @@
   &emsp; 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
   &emsp;
-  &emsp;
+
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
   &emsp;
-  &emsp;
+
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
   &emsp;
-  &emsp;
+
   ![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)                                                                 
   &emsp;
-  &emsp;
   <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-  &emsp;
+
   &emsp;  
   ![Boostrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&logo=bootstrap&logoColor=white) 
   &emsp;
   &emsp;
   <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
   &emsp;
-  &emsp; 
+
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white) 
-  &emsp; 
+
   &emsp; 
 
   ### 👉 Other Programming languages
   &emsp;
   ![C](https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white)
   &emsp; 
-  &emsp; 
+ 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=java&logoColor=white) 
   &emsp;
 
