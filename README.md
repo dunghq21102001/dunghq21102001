@@ -9,77 +9,19 @@
 - 🌏 You can call me Carl
 - 📚 안녕하세요. 제이름은 귝용 입니다, 제 별명은 우지입니다
 
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-
- ## 🛠️ My Skills
-       
-### 👉 Frontend Development
-  &emsp; 
- ![HTML5](https://img.shields.io/badge/html5-%231572B6.svg?&logo=html5&logoColor=white)
-  &emsp;
-
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
-  &emsp;
-
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
-  &emsp;
-
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)                                                                 
-  &emsp;
-  <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-
-  &emsp;  
-  ![Boostrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&logo=bootstrap&logoColor=white) 
-  &emsp;
-  &emsp;
-  <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-  &emsp;
-
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white) 
-
-  &emsp; 
-
-  ### 👉 Other Programming languages
-  &emsp;
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white)
-  &emsp; 
- 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=java&logoColor=white) 
-  &emsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dunghq21102001&label=Profile%20views&color=0e75b6&style=flat" alt="dunghq21102001" /> </p>
 
 
-### 👉 Databases 
-  &emsp;
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white) 
-  &emsp; 
-  <span><img src="[https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mongodb.svg)" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-  https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mongodb.svg
-  
-  &emsp; 
-  <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-  
+<h3 align="left">🔥 Languages and Tools 🛠️</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 💻Some Tools:
-  &emsp;
-  <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dunghq21102001&show_icons=true&locale=en&layout=compact" alt="dunghq21102001" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dunghq21102001&show_icons=true&locale=en" alt="dunghq21102001" /></p>
 
-<!-- ![](https://github.com/dunghq21102001/[Your_GIF_Name.gif](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)) -->
-
-
-<img src='https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif' width='100%' height='100%'/>
-
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunghq21102001&show_icons=true&theme=tokyonight)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunghq21102001&layout=compact&hide=Less,SCSS)](https://github.com/dunghq21102001/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dunghq21102001&" alt="dunghq21102001" /></p>
 
 
 <h2 align="center">How to connect with me</h2>
