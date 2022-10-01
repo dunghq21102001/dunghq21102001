@@ -86,7 +86,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dunghq21102001&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dunghq21102001&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <h2 align="center">How to connect with me</h2>
