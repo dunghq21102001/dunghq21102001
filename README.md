@@ -17,7 +17,7 @@
        
 ### 👉 Frontend Development
   &emsp; 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
+<img height="32" width="32" src="https://abrudz.github.io/logos/JS.svg" />
   &emsp;
 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
