@@ -14,7 +14,7 @@
 <br>
 
  ## 🛠️ My Skills
-        &emsp; 
+       
 ### 👉 Frontend Development
   &emsp; 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
@@ -54,7 +54,8 @@
   &emsp;
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white) 
   &emsp; 
-  <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+  <span><img src="[https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mongodb.svg)" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+  
   &emsp; 
   <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
   
