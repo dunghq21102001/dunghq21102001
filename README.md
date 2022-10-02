@@ -2,7 +2,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Play&color=%63bae4&size=50&center=true&vCenter=true&height=60&width=700&lines=I'm+Dung;I'm+a+Frontend+programmer;I'm+a+Frontend+programmer;Welcome+to+my+profile!"
             alt="Title"></img>
 </div>
-<img src='https://thumbs.gfycat.com/ArtisticMintyArrowworm-size_restricted.gif' align="right"/>
+<img src='https://thumbs.gfycat.com/ArtisticMintyArrowworm-size_restricted.gif' width="240px" align="right"/>
 - 👋 Hi, I’m Hoang Quoc Dung
 - 📚 I'm a Frontend programmer
 - 🌱 I’m currently learning reactJS, nextJS
