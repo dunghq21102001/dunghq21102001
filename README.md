@@ -4,11 +4,12 @@
 </div>
 
 - 👋 Hi, I’m Hoang Quoc Dung
+- <img src='https://thumbs.gfycat.com/ArtisticMintyArrowworm-size_restricted.gif' width="440px" align="right"/>
 - 📚 I'm a Frontend programmer
 - 🌱 I’m currently learning reactJS, nextJS
 - 🌏 You can call me Carl
 - 📚 안녕하세요. 제이름은 귝용 입니다, 제 별명은 우지입니다
-<img src='https://thumbs.gfycat.com/ArtisticMintyArrowworm-size_restricted.gif' width="440px" align="right"/>
+
 
   &emsp; 
     &emsp; 
