@@ -2,15 +2,22 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Play&color=%63bae4&size=50&center=true&vCenter=true&height=60&width=700&lines=I'm+Dung;I'm+a+Frontend+programmer;I'm+a+Frontend+programmer;Welcome+to+my+profile!"
             alt="Title"></img>
 </div>
-<img src='https://thumbs.gfycat.com/ArtisticMintyArrowworm-size_restricted.gif' width="240px" align="right"/>
+
 - 👋 Hi, I’m Hoang Quoc Dung
 - 📚 I'm a Frontend programmer
 - 🌱 I’m currently learning reactJS, nextJS
 - 🌏 You can call me Carl
 - 📚 안녕하세요. 제이름은 귝용 입니다, 제 별명은 우지입니다
+<img src='https://thumbs.gfycat.com/ArtisticMintyArrowworm-size_restricted.gif' width="440px" align="right"/>
 
-
-<hr/>
+  &emsp; 
+    &emsp; 
+      &emsp; 
+        &emsp; 
+          &emsp; 
+            &emsp; 
+              &emsp; 
+                &emsp; 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dunghq21102001&label=Profile%20views&color=0e75b6&style=flat" alt="dunghq21102001" /> </p>
 
