@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning reactJS, nextJS
 - 🌏 You can call me Carl
 - 📚 안녕하세요. 제이름은 귝용 입니다, 제 별명은 우지입니다
+- 📚 우리가 날씨를 바꿀 수 없지만 기분을 바꿀 수 있어요. 화창하거나 비가 와도 항상 미소를 지으세요. 당신은 삶이 가볍고 평화로운 걸 볼 거예요.
+- (We can't change the weather, but we can change the mood. Whether it's sunny or rainy, always smile, you'll find life so light and peaceful!)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dunghq21102001&label=Profile%20views&color=0e75b6&style=flat" alt="dunghq21102001" /> </p>
 
