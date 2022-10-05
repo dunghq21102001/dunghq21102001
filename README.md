@@ -3,7 +3,7 @@
             alt="Title"></img>
 </div>
 
- <img src='http://3.bp.blogspot.com/-8DHD-KZ2_f0/TcUuR0NLtuI/AAAAAAAAATs/40Esh8EaDv8/s1600/tumblr_lk8200IHen1qauw6w.gif' width="440px" align="right"/>
+ <img src='https://i.pinimg.com/originals/7b/df/16/7bdf164aaed98d4336084d0b33e3e588.gif' width="440px" align="right"/>
 
 - 👋 Hi, I’m Hoang Quoc Dung
 - 📚 I'm a Frontend programmer
