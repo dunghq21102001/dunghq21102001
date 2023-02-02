@@ -44,6 +44,14 @@
   &emsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   &emsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+  &emsp;
+![PHP](https://img.shields.io/badge/php-fff?style=for-the-badge&logo=php&logoColor=7377ad)
+  &emsp;
+![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=f05340)
+  &emsp;
+![Lumen](https://img.shields.io/badge/lumen-fff?style=for-the-badge&logo=lumen&logoColor=f05340)
+  &emsp;  
 
 ### 💻 Programming languages
   &emsp;
